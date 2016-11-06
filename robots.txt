@@ -10,4 +10,6 @@ Disallow:
 
 #push line
 
+#try on SSH connection git push origin master
+
 # some line
